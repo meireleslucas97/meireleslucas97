@@ -7,8 +7,8 @@
  Sou estudante de Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital e meu objetivo é ser um desenvolvedor Front-End. Atualmente trabalho como Assistente Administrativo.
  
 <div>
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meireleslucas97&theme=react&show_icons=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meireleslucas97&layout=compact&theme=react&show_icons=true"/> 
+ <img height="140em" src="https://github-readme-stats.vercel.app/api?username=meireleslucas97&theme=react&show_icons=true"/>
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meireleslucas97&layout=compact&theme=react&show_icons=true"/> 
 </div>
  
  ### 🛠️ Technologies e Tools I use:
