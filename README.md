@@ -8,7 +8,7 @@
  
 <div>
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=meireleslucas97&theme=react&show_icons=true"/>
- <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=meireleslucas97)](https://github.com/meireleslucas97/github-readme-stats"/> 
+ <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meireleslucas97&layout=compact&theme=react"/> 
 </div>
  
  ### 🛠️ Technologies e Tools I use:
