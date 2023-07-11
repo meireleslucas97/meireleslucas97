@@ -4,7 +4,7 @@
 [![Instagram Follow](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/meireleslucas_/)](https://www.instagram.com/meireleslucas_/)
 [![Linkedin: meireleslucas](https://img.shields.io/badge/-Lucas%20Meireles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meireleslucas/)](https://www.linkedin.com/in/meireleslucas/)
 
- Sou estudante de Análise e Desenvolvimento de Sistemas pela Descomplica Faculdade Digital e meu objetivo é ser um desenvolvedor Front-End. Atualmente trabalho como Assistente Administrativo.
+ Sou estudante de Web Development pela Brigham Young University - Idaho e meu objetivo é ser um desenvolvedor Front-End. Atualmente trabalho como Assistente Administrativo.
  
 <div>
  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=meireleslucas97&theme=react&show_icons=true"/>
